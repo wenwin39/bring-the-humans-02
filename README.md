@@ -11,9 +11,9 @@ places, you claim the reward to your own Solana wallet.
 
 This guide takes you from zero to your first entry.
 
-> **New here? Start with my link:** [https://make.fun/r/rf407jg9](https://make.fun/r/rf407jg9)
+> **New here? Start with my link:** [https://make.fun/r/2e9dnt9s](https://make.fun/r/2e9dnt9s)
 >
-> My referral code is `rf407jg9`. Signing up through it costs you nothing
+> My referral code is `2e9dnt9s`. Signing up through it costs you nothing
 > and supports this guide.
 
 ## Contents
@@ -70,7 +70,7 @@ Three things worth knowing before you start:
 
 ## 1. Create your account
 
-1. Open [my referral link](https://make.fun/r/rf407jg9) and click **Sign in**
+1. Open [my referral link](https://make.fun/r/2e9dnt9s) and click **Sign in**
    at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of
    them costs anything, and signing in with a wallet sends no transaction.
@@ -240,7 +240,7 @@ for at least a day before you can claim it, and only real new accounts that
 take part count.
 
 If this guide helped, signing up through
-[my link](https://make.fun/r/rf407jg9) (code `rf407jg9`) is a nice way to say
+[my link](https://make.fun/r/2e9dnt9s) (code `2e9dnt9s`) is a nice way to say
 thanks.
 
 ## Questions
@@ -297,4 +297,4 @@ strips credentials, e-mail addresses and home paths before upload, and
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/rf407jg9 · code `rf407jg9`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/2e9dnt9s · code `2e9dnt9s`</sub>
